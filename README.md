@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BofStem
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.1.
@@ -26,3 +27,7 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# stem
+Buvik ølfestival - stem frem beste bryggeri og ølsort
+>>>>>>> b8cdef5b5045d0179895b4581b6eafb450697a43
